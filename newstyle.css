@@ -7,17 +7,34 @@ h1{
     font-size: 450%;
     color: red;
 }
+header{
+    /* border: 2px white solid; */
+}
 header div {
     display: flex;
     justify-content: flex-end;
-    border: 2px yellow solid;
+    /* align-items: center; */
+    /* border: 2px yellow solid; */
     margin-left: 45%;
+    width: 20%;
+    border-radius: 60%;
+    
+}
+
+header button{
+    background-color:orangered ;
+    color:solid black;
+    height: 55%;
+    
 }
 div button{
- 
+    display: flex;
     background-color: firebrick;
-    justify-content: flex-end; */
     background-color: rgb(255, 8, 0);
+    /* align-items: center; */
+    height: 25%;
+    width: 24%;
+    border-radius: 21%;
 
 }
 
